@@ -1,0 +1,31 @@
+{
+  "name": "node-revue",
+  "version": "0.1.1",
+  "description": "A node.js module to add subscribers to Revue accounts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anges244/node-revue.git"
+  },
+  "keywords": [
+    "revue",
+    "getrevue",
+    "newsletter",
+    "subscribers",
+    "node",
+    "sync"
+  ],
+  "author": "Aggelos Gesoulis <aggelos.gesoulis@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anges244/node-revue/issues"
+  },
+  "homepage": "https://github.com/anges244/node-revue#readme",
+  "dependencies": {
+    "request": "^2.83.0",
+    "validator": "^9.4.1"
+  }
+}
