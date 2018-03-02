@@ -1,6 +1,6 @@
 # node-revue
 
-A node.js module to import subscribers to Revue
+An unofficial node.js module to import subscribers to Revue
 
 
 ## Installation
