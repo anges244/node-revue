@@ -19,7 +19,7 @@ revue.add({email: "required@email.com", first_name: "John", last_name: "Doe"},"m
 	// Handle both cases 
 })
 ```
-##### * first_name and last_name are optional
+###### * first_name and last_name are optional
 
 
 ## Notes
